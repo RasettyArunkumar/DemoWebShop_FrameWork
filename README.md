@@ -62,7 +62,7 @@ ________________________________________
 ________________________________________
  How to Run the Tests?
  1. Clone the Repository
-    git clone https://github.com/yourusername/ DemoWebShop_FrameWork.git
+    git clone https://github.com/RasettyArunKumar/ DemoWebShop_FrameWork.git
  2. Navigate into the Project
     cd DemoWebShop-Automation
  3. Install Dependencies
