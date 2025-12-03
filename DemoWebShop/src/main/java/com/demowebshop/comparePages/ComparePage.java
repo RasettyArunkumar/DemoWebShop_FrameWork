@@ -1,4 +1,4 @@
-package com.demowebshop.compare;
+package com.demowebshop.comparePages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

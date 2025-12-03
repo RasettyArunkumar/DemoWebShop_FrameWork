@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.demowebshop.FromCompareCheapProductAddToCart.Compare_LessCostToAddToCart">
+      <class name="com.demowebshop.endToend.Checkout_Module">
         <methods>
           <include name="login"/>
           <include name="openBrowser"/>
           <include name="closeBrowser"/>
+          <include name="testcheckOut" invocation-numbers="2 3 4"/>
           <include name="logout"/>
-          <include name="addLessCostItem"/>
         </methods>
-      </class> <!-- com.demowebshop.FromCompareCheapProductAddToCart.Compare_LessCostToAddToCart -->
+      </class> <!-- com.demowebshop.endToend.Checkout_Module -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

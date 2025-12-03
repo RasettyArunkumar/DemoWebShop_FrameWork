@@ -1,4 +1,4 @@
-package com.demowebshop.Computers;
+package com.demowebshop.ComputersPages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

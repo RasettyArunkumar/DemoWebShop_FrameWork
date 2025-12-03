@@ -13,10 +13,22 @@ public class ShoppingPage {
 	@FindBy(className = "update-cart-button")
 	private WebElement updateCart;
 
+	@FindBy(id  = "checkout")
+	private WebElement checkOutBtn;
+	
+	@FindBy(id="termsofservice")
+	private WebElement termsCheckBox;
+	
 	public ShoppingPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
 
+	public void clicktermsCheckBox() {
+		termsCheckBox.click();
+	}
+	public void clickcheckOutBtn() {
+		checkOutBtn.click();
+	}
 	public void setRemoveItem() {
 		removeItem.click();
 		updateCart.click();

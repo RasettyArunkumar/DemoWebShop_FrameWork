@@ -3,8 +3,9 @@ package com.demowebshop.compare;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-import com.demowebshop.Computers.ComputersPage;
-import com.demowebshop.Computers.DesktopsPage;
+import com.demowebshop.ComputersPages.ComputersPage;
+import com.demowebshop.ComputersPages.DesktopsPage;
+import com.demowebshop.comparePages.ComparePage;
 import com.demowebshop.generic.BaseClass;
 import com.demowebshop.pages.HomePage;
 
