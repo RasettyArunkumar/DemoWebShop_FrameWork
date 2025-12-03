@@ -24,7 +24,7 @@ Test Data	Apache POI (Excel)
 Logging	Log4j
 Automation Tool	Selenium WebDriver
 ________________________________________
-📁 Project Structure
+Project Structure
 DemoWebShop-Automation/
 │
 ├ src/main/java/
@@ -110,7 +110,7 @@ Contributions are always welcome!
 Feel free to raise issues or submit pull requests.
 ________________________________________
 Contact
-Your Name –Rasetty Arun Kumar
+Name –Rasetty Arun Kumar
 Email:rasettyarunkumar@gmail.com
 GitHub: https://github.com/RasettyArunkumar 
 LinkedIn: rasettyarunkumar
